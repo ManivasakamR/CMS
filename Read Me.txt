@@ -1,0 +1,20 @@
+CMS 
+
+** EVERYTHING CASE SENSITIVE
+
+Admin users
+
+Username; Admin	
+Password: Admin	
+
+Employee Users
+
+Username: Bhanu
+Password: Bhanu
+
+Customer
+
+Username: Arun
+Password: Arun
+
+Report password: 8m1kslshqp
